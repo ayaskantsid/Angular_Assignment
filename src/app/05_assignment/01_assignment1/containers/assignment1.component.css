@@ -2,3 +2,12 @@
   margin-top: 40px;
   border: 2px solid darkmagenta;
 }
+
+.form-control{
+  margin-top: 12px;
+}
+
+.input-container{
+  padding: 10px 10px;
+}
+
